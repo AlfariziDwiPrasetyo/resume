@@ -5,6 +5,6 @@
 #let location = "Indramayu, Indonesia"
 #let email = "alfarizidwp@gmail.com"
 #let github = "github.com/alfarizidwiprasetyo"
-#let linkedin = "www.linkedin.com/in/al-farizi-dwi-prasetyo/"
+#let linkedin = "linkedin.com/in/al-farizi-dwi-prasetyo/"
 #let phone = "+62 838 3733 1647"
 #let personal-site = "shirookami.my.id"

@@ -14,12 +14,14 @@
   phone: phone,
   personal-site: personal-site,
   accent-color: "#333333",
-  font: "Open Sans",
+  font: "IBM Plex Sans",
   paper: "a4",
   author-position: left,
   personal-info-position: left,
   font-size: 11pt, 
 )
+
+
 
 /*
 * Lines that start with == are formatted into section headings

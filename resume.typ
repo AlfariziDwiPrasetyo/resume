@@ -53,9 +53,20 @@ challenging company.
   // consistent: true
 )
 - Cumulative GPA: 3.6\/4.0
-- Relevant Coursework: Data Structures, Web Programming, Principles and Practice of Comp Sci
+- Relevant Coursework: Data Structures, Web Programming, Mobile Programming, Principles and Practice of Computer Science
 
 == Work Experience
+
+#work(
+  title: "Fullstack Developer",
+  location: "Cirebon",
+  company: "Universitas Negeri Islam Siber Syekh Nurjati Cirebon",
+  dates: dates-helper(start-date: "July 2025", end-date: "Current"),
+)
+- Developed a web-based application system for UKT (Tuition Fee Subsidy) submission, enabling students to submit data and documents online.
+- Implemented a custom face recognition login feature using face-api.js to verify user identity without traditional passwords.
+- Designed and built interactive user interfaces for students and administrators, focusing on accessibility and ease of use.
+- Worked iteratively with university stakeholders to ensure the platform met institutional requirements and improved submission workflows.
 
 #work(
   title: "Frontend & Backend",
